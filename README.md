@@ -1,7 +1,7 @@
 《The Swift Programming Language》in Chinese
 =============================================
 
-中文版 Apple 官方 Swift 教程《The Swift Programming Language》
+中文版 Apple 官方 Swift 教程《The Swift Programming Language》1
 
 [英文原版](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/index.html#//apple_ref/doc/uid/TP40014097-CH3-ID0)
 
